@@ -1,6 +1,4 @@
-*{
-  border:1px solid blue;
-}
+
 .main-container{
   display:flex;
   flex-direction:column;
